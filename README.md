@@ -26,4 +26,4 @@
   [네이버](https://naver.com, "네이버 홈")
   
   <https://www.joongon.com>
-![sample image](./K8LgC4at (2).jpg)
+![sample image](./K8LgC4at(2).jpg)
